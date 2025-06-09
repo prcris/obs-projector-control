@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="closeobsprojector.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="19" Y="12"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="19">
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="36" Column="40" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="68" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="66" Column="43" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="63" Column="31" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="56" Column="18" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="59" Column="53" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="71"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="26" Column="57"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="59" Column="87" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="78" Column="84" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="69" Column="51" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="132" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="98" Column="39"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="100" Column="81" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="14" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="10" Column="31"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="11" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="29" Column="49"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="15" Column="39"/>
+      </Position>
+      <Position>
+        <Filename Value="closeobsprojector.lpr"/>
+        <Caret Line="25" Column="76"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
